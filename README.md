@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Neo
-- 👀 I’m interested in bash scripting
+- 👀 I’m currently interested in bash scripting
 - 💞️ I’m looking to collaborate on command line programs
 - 📫 E-Mail: neonabukodonosor@gmail.com
